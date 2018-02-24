@@ -1,0 +1,14 @@
+{
+  "src/django_elasticsearch_dsl_drf/tests/test_faceted_search.py": true,
+  "src/django_elasticsearch_dsl_drf/tests/test_filtering_common.py": true,
+  "src/django_elasticsearch_dsl_drf/tests/test_filtering_geo_spatial.py": true,
+  "src/django_elasticsearch_dsl_drf/tests/test_helpers.py": true,
+  "src/django_elasticsearch_dsl_drf/tests/test_highlight.py": true,
+  "src/django_elasticsearch_dsl_drf/tests/test_ordering_common.py": true,
+  "src/django_elasticsearch_dsl_drf/tests/test_ordering_geo_spatial.py": true,
+  "src/django_elasticsearch_dsl_drf/tests/test_pagination.py": true,
+  "src/django_elasticsearch_dsl_drf/tests/test_search.py": true,
+  "src/django_elasticsearch_dsl_drf/tests/test_serializers.py": true,
+  "src/django_elasticsearch_dsl_drf/tests/test_suggesters.py": true,
+  "src/django_elasticsearch_dsl_drf/tests/test_views.py": true
+}
