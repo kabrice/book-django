@@ -4,7 +4,7 @@ django-elasticsearch-dsl==0.4.4
 django-elasticsearch-dsl-drf==0.6.3
 django-nine==0.1.13
 django-ormex==0.2
-djangorestframework==3.7.7
+djangorestframework==3.9.1
 drf-extensions==0.3.1
 elasticsearch==5.5.2
 elasticsearch-dsl==5.4.0
