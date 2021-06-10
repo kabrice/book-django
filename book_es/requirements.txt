@@ -1,5 +1,5 @@
 attrs==17.4.0
-Django==2.0.1
+Django==2.2.24
 django-elasticsearch-dsl==0.4.4
 django-elasticsearch-dsl-drf==0.6.3
 django-nine==0.1.13
